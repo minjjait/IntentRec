@@ -1,4 +1,3 @@
-# recsys-exp-v2.5
 Sequential recommendation experiments with **6 models** (POP, GRU4Rec, SASRec, BERT4Rec, SR-GNN, GCE-GNN, IntentGraphRec)
 and a **one-shot runner**. Includes a robust **raw→processed** preprocessor and **LOOCV** evaluation (valid predicts t-1; test predicts t).
 
