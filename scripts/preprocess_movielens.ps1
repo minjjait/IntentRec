@@ -1,0 +1,1 @@
+python -m src.data.preprocess_raw --in "C:\data\ratings.csv" --out "C:\data\movielens_processed.csv" --user_col userId --item_col movieId --time_col timestamp --min_items_user 5 --min_users_item 5 --min_seq_len 3
